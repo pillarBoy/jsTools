@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+a	I:\number_str_mutil\numStrAdd.js	/^var a = 328;$/;"	variable	line:1
+b	I:\number_str_mutil\numStrAdd.js	/^var b = 898;$/;"	variable	line:2
+tools	I:\number_str_mutil\numStrAdd.js	/^var tools = require('.\/tools.js');$/;"	variable	line:3
+numCheck	I:\number_str_mutil\numStrAdd.js	/^function numCheck(num, msg) {$/;"	function	line:6
+numCheck	I:\number_str_mutil\numStrAdd.js	/^function numCheck(num, msg) {$/;"	function	line:6
+addNum	I:\number_str_mutil\numStrAdd.js	/^function addNum(numA, numB) {$/;"	function	line:14
+addNum	I:\number_str_mutil\numStrAdd.js	/^function addNum(numA, numB) {$/;"	function	line:14
+multInt	I:\number_str_mutil\numStrAdd.js	/^function multInt(numA, numB) {$/;"	function	line:34
+multInt	I:\number_str_mutil\numStrAdd.js	/^function multInt(numA, numB) {$/;"	function	line:34
